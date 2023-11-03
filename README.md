@@ -9,16 +9,17 @@ This GitHub repository is designed to help individuals with no prior coding expe
 - [Getting Started](#getting-started)
 - [Labs](#labs)
 - [Cheatsheets](#cheatsheets)
-- [Additional Resources](#additional-resources)
 
 ## Getting Started
 
 Before you dive into Python development, here are some steps to help you get started:
 
 1. **Install Python:**
+
    - If Python is not already installed on your computer, visit the [Python official website](https://www.python.org/downloads/) to download and install the latest version.
 
 2. **Choose an Integrated Development Environment (IDE):**
+
    - You can use IDEs like [Visual Studio Code](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) to write and run Python code.
 
 3. **Set Up Git and GitHub:**
@@ -28,57 +29,43 @@ Before you dive into Python development, here are some steps to help you get sta
 
 The Labs section contains hands-on exercises and projects that gradually introduce you to Python programming concepts. These labs are designed to be beginner-friendly and provide a structured learning path.
 
-1. **Hello World:** Learn how to write your first Python program that prints "Hello, World!" to the console.
+1. [**Hello World:**](labs/lab1-hello-world.md) Learn how to write your first Python program that prints "Hello, World!" to the console.
 
-2. **Variables and Data Types:** Understand the basic data types in Python and how to use variables.
+2. [**Variables and Data Types:**](labs/lab2-datatypes-and-variables.md) Understand the basic data types in Python and how to use variables.
 
-3. **Conditional Statements:** Learn about if-else statements for decision-making in your code.
+3. [**Conditional Statements:**](labs/lab3-conditional-statements.md) Learn about if-else statements for decision-making in your code.
 
-4. **Loops:** Explore the concepts of for and while loops to control the flow of your programs.
+4. [**Loops:**](labs/lab4-looping.md) Explore the concepts of for and while loops to control the flow of your programs.
 
-5. **Functions:** Discover how to define and use functions in Python to make your code more modular.
+5. [**Functions:**](labs/lab5-functions.md) Discover how to define and use functions in Python to make your code more modular.
 
-6. **Lists and Dictionaries:** Dive into data structures like lists and dictionaries, and how to manipulate them.
+6. [**Lists and Dictionaries:**](labs/lab6-lists-and-dictionaries.md) Dive into data structures like lists and dictionaries, and how to manipulate them.
 
-7. **File Handling:** Learn how to read and write data to files using Python.
+7. [**File Handling:**](labs/lab7-file-handling.md) Learn how to read and write data to files using Python.
 
-8. **Error Handling:** Understand how to handle errors and exceptions in your programs.
+8. [**Error Handling:**](labs/lab8-error-handling.md) Understand how to handle errors and exceptions in your programs.
 
-9. **Introduction to Object-Oriented Programming (OOP):** Get an introduction to OOP concepts like classes and objects.
+9. [**Introduction to Object-Oriented Programming (OOP):**](labs/lab9-intro-to-oop.md) Get an introduction to OOP concepts like classes and objects.
 
-10. **Mini Project: Build a Simple Calculator:** Apply what you've learned by building a basic calculator application.
+10. [**Mini Project: Progressive Refactoring:**](labs/lab10-progressive-refactoring.md) Apply what you've learned by building a simple application, and repeatedly refactor it to be increasingly modular and reusable.
 
 ## Cheatsheets
 
 In the Cheatsheets section, you'll find quick reference guides that provide essential Python syntax and tips. These cheatsheets are handy references as you progress through your learning journey.
 
-1. **Python Basics Cheatsheet:** Covers the fundamentals, such as variables, data types, and basic operations.
+1. [**Python Basics Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/basics) Covers the fundamentals, such as variables, data types, and basic operations.
 
-2. **Control Structures Cheatsheet:** Quick reference for if-else statements and loops.
+2. [**Control Structures Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/control-flow) Quick reference for if-else statements and loops.
 
-3. **Functions and Modules Cheatsheet:** Information on defining functions and working with Python modules.
+3. [**Functions Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/functions) Information on defining and working with Python functions.
 
-4. **Data Structures Cheatsheet:** A reference guide for working with lists, dictionaries, and sets.
+4. **Data Structures Cheatsheet:** A reference guide for working with [lists](https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples) and [dictionaries](https://www.pythoncheatsheet.org/cheatsheet/dictionaries).
 
-5. **File Handling Cheatsheet:** Instructions on reading and writing files in Python.
+5. [**File Handling Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/reading-and-writing-files) Instructions on reading and writing files in Python.
 
-6. **Object-Oriented Programming (OOP) Cheatsheet:** Overview of OOP concepts in Python.
+6. [**Object-Oriented Programming (OOP) Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/oop-basics) Overview of OOP concepts in Python.
 
-7. **Error Handling Cheatsheet:** Quick guide to dealing with exceptions and errors in your code.
-
-## Additional Resources
-
-In the Additional Resources section, you'll find links to various external sources, tutorials, and documentation to help you expand your knowledge and skills in Python development:
-
-1. **Python Documentation:** The official Python documentation is an invaluable resource to explore Python's capabilities in-depth.
-
-2. **Online Python Courses:** Links to free and paid online courses that provide more comprehensive Python education.
-
-3. **Community Forums:** Connect with the Python community on platforms like [Stack Overflow](https://stackoverflow.com/questions/tagged/python) and [Python.org Forums](https://www.python.org/community/forums/).
-
-4. **Recommended Books:** A list of recommended books for beginners who want to delve deeper into Python development.
-
-5. **Python Development Tools:** Explore different tools, libraries, and frameworks that can be used to enhance your Python development skills.
+7. [**Error Handling Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/exception-handling) Quick guide to dealing with exceptions and errors in your code.
 
 ## Contributions
 

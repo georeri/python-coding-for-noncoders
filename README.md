@@ -8,6 +8,7 @@ This GitHub repository is designed to help individuals with no prior coding expe
 
 - [Getting Started](#getting-started)
 - [Labs](#labs)
+- [Projects](#projects)
 - [Cheatsheets](#cheatsheets)
 - [Additional Resources](#additional-resources)
 

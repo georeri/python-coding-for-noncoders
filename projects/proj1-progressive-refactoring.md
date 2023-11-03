@@ -1,12 +1,15 @@
-# Coding for Noncoders: Mini Project - Progressive Refactoring
+# Coding for Noncoders: Project - Progressive Refactoring
 
 ## Introduction
 
 In this self-paced lab assignment, you will develop an application in Python that reads data from a CSV file, processes the data, and writes the processed data to either a CSV or JSON file. This assignment is divided into four phases, each building upon the previous one to improve code structure, modularity, and functionality by progressively refactoring procedural code into Object-Oriented code.
 
+Estimated time to complete: 30 minutes or less.
+
 ## Prerequisites
 
-Before you begin, make sure you have the latest version of Python installed. It is also good (but not mandatory) to have a basic understanding of Python syntax.
+- You have completed all 9 introductory [labs](../labs/), or otherwise are familiar with basic Python programming concepts and syntax.
+- A computer with Python installed. If you haven't installed Python, please refer to the [official Python downloads](https://www.python.org/downloads/) page and follow the installation instructions for your platform.
 
 ## Phase 1: Simple Data Processing
 

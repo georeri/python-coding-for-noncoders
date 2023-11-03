@@ -23,7 +23,7 @@ Before you dive into Python development, here are some steps to help you get sta
 
    - You can use IDEs like [Visual Studio Code](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) to write and run Python code.
 
-3. **Set Up Git and GitHub:**
+3. **Set Up Git and GitHub (optional):**
    - If you're not familiar with Git and GitHub, you can follow this [GitHub Guide](https://guides.github.com/activities/hello-world/) to set up your account and get acquainted with basic Git commands.
 
 ## Labs
@@ -48,7 +48,9 @@ The Labs section contains hands-on exercises and projects that gradually introdu
 
 9. [**Introduction to Object-Oriented Programming (OOP):**](labs/lab9-intro-to-oop.md) Get an introduction to OOP concepts like classes and objects.
 
-10. [**Mini Project: Progressive Refactoring:**](labs/lab10-progressive-refactoring.md) Apply what you've learned by building a simple application, and repeatedly refactor it to be increasingly modular and reusable.
+## Projects
+
+1. [**Project: Progressive Refactoring:**](projects/proj1-progressive-refactoring.md) Apply what you've learned in the labs above by building a simple application, and repeatedly refactor it to be increasingly modular and reusable.
 
 ## Cheatsheets
 

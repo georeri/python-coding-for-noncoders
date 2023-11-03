@@ -9,6 +9,7 @@ This GitHub repository is designed to help individuals with no prior coding expe
 - [Getting Started](#getting-started)
 - [Labs](#labs)
 - [Cheatsheets](#cheatsheets)
+- [Additional Resources](#additional-resources)
 
 ## Getting Started
 
@@ -66,6 +67,16 @@ In the Cheatsheets section, you'll find quick reference guides that provide esse
 6. [**Object-Oriented Programming (OOP) Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/oop-basics) Overview of OOP concepts in Python.
 
 7. [**Error Handling Cheatsheet:**](https://www.pythoncheatsheet.org/cheatsheet/exception-handling) Quick guide to dealing with exceptions and errors in your code.
+
+## Additional Resources
+
+In the Additional Resources section, you'll find links to various external sources, tutorials, and documentation to help you expand your knowledge and skills in Python development:
+
+1. [**Python Documentation:**](https://docs.python.org/3/index.html) The official Python documentation is an invaluable resource to explore Python's capabilities in-depth.
+
+2. [**The Python Tutorial:**](https://docs.python.org/3/tutorial/index.html) This tutorial introduces the reader informally to the basic concepts and features of the Python language and system.
+
+3. **Community Forums:** Connect with the Python community on platforms like [Stack Overflow](https://stackoverflow.com/questions/tagged/python) and [Python.org Forums](https://www.python.org/community/forums/).
 
 ## Contributions
 

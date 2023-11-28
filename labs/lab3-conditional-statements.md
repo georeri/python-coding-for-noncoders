@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this beginner-friendly hands-on lab, you will learn about using conditional statements in Python for decision-making in your code. You will explore how to make choices and perform different actions based on specific conditions. This lab provides a structured learning path and detailed explanations for all the code.
+What good is code if it only goes in a straight line? In this beginner-friendly hands-on lab, you will learn about using conditional statements in Python for decision-making in your code. You will explore how to make choices and perform different actions based on specific conditions. 
 
 Estimated time to complete: 15 minutes or less.
 
@@ -23,9 +23,11 @@ You can use a simple text editor like Notepad (on Windows) or any code editor/ID
 
 ### Step 3: Learn about Conditional Statements
 
-Conditional statements allow your code to make decisions based on certain conditions. There are two main types of conditional statements in Python: `if` and `if-else`. Let's explore both.
+Conditional statements allow your code to make decisions based on certain conditions. It lets your code go down different paths. There are two main types of conditional statements in Python: `if` and `if-else`. Let's explore both.
 
 1. **Using `if` Statements:**
+
+An if statement has a condition inside it. If that condition evalutes to True, the code that follows the if statement will execute. Otherwise, the code will continue forward, skipping that section. Python uses indentation to identify chunks of code that belong together. All of the code that should execute as a result of the if statement will be indented below it. Let's give it a shot!
 
    - Create a variable `x` and assign an integer value to it.
    - Write an `if` statement to check if `x` is greater than 10.
@@ -37,6 +39,18 @@ Conditional statements allow your code to make decisions based on certain condit
 
    if x > 10:
        print("x is greater than 10")
+   ```
+
+What happens when the if statement doesn't evaluate to True? Let's try it! Change your code to match this:
+
+```python
+   # Using if Statements
+   x = 8
+
+   if x > 10:
+       print("x is greater than 10")
+
+    print("What happened?")
    ```
 
 2. **Using `if-else` Statements:**
